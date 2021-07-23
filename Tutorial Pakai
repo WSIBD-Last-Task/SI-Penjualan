@@ -1,0 +1,4 @@
+1. Buat database bernama 'app_penjualan'
+2. import database yang ada di dalam file project fiks bernama 'app_penjualan.sql'
+3. import library JFreeChart yang ada di dalam folder project
+4. aplikasi siap dijalankan.
